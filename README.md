@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 25/04/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,18 @@
 
 ## Input:
 
+![exp4i](https://github.com/Mohammed-Saajid/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/141727149/1a9ce487-76ee-4f7f-bab3-9b9d4cb690c8)
+
+
 ### Output:
 
+![exp4](https://github.com/Mohammed-Saajid/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/141727149/6ec5dbbb-3df0-4dfc-826d-a63e449f32dd)
 
-### Name:
-### Register Number:
+
+
+### Name: MOHAMMED SAAJID S
+
+### Register Number: 212223240093
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
